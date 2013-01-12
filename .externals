@@ -5,18 +5,22 @@ scm = git
 repository = git@github.com:amcnea/tr_subproject01.git
 path = sp01
 scm = git
+revision = bdc0dc60b6bd8c0d61c525a88f48c32f37acabe8
 
 [dirL01_01/sp02]
 repository = git@github.com:amcnea/tr_subproject02.git
 path = dirL01_01/sp02
 scm = git
+revision = e60517bf303ec3b85f38a2651773657dd4dbd1a2
 
 [dirL01_01/sp03]
 repository = git@github.com:amcnea/tr_subproject03.git
 path = dirL01_01/sp03
 scm = git
+revision = cad0b4b50e40a012aca0816078b8d8d0c159bbb3
 
 [dirL01_01/dirL02_01/sp04]
 repository = git@github.com:amcnea/tr_subproject04.git
 path = dirL01_01/dirL02_01/sp04
 scm = git
+revision = edbb3abb9b0f3a34261330d7d29ba6a9d72dda95
