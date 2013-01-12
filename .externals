@@ -1,0 +1,22 @@
+[.]
+scm = git
+
+[sp01]
+repository = git@github.com:amcnea/tr_subproject01.git
+path = sp01
+scm = git
+
+[dirL01_01/sp02]
+repository = git@github.com:amcnea/tr_subproject02.git
+path = dirL01_01/sp02
+scm = git
+
+[dirL01_01/sp03]
+repository = git@github.com:amcnea/tr_subproject03.git
+path = dirL01_01/sp03
+scm = git
+
+[dirL01_01/dirL02_01/sp04]
+repository = git@github.com:amcnea/tr_subproject04.git
+path = dirL01_01/dirL02_01/sp04
+scm = git
